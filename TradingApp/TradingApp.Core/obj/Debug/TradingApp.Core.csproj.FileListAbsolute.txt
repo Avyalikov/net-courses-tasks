@@ -1,0 +1,7 @@
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW6\Vyalikov_Anton\TradingApp\TradingApp.Core\obj\Debug\TradingApp.Core.csprojAssemblyReference.cache
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW6\Vyalikov_Anton\TradingApp\TradingApp.Core\obj\Debug\TradingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW6\Vyalikov_Anton\TradingApp\TradingApp.Core\bin\Debug\TradingApp.Core.exe.config
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW6\Vyalikov_Anton\TradingApp\TradingApp.Core\bin\Debug\TradingApp.Core.exe
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW6\Vyalikov_Anton\TradingApp\TradingApp.Core\bin\Debug\TradingApp.Core.pdb
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW6\Vyalikov_Anton\TradingApp\TradingApp.Core\obj\Debug\TradingApp.Core.exe
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW6\Vyalikov_Anton\TradingApp\TradingApp.Core\obj\Debug\TradingApp.Core.pdb

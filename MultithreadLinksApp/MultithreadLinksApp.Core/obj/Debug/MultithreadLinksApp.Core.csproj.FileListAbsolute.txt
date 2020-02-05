@@ -1,0 +1,11 @@
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\bin\Debug\MultithreadLinksApp.Core.exe.config
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\bin\Debug\MultithreadLinksApp.Core.exe
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\bin\Debug\MultithreadLinksApp.Core.pdb
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\obj\Debug\MultithreadLinksApp.Core.csprojAssemblyReference.cache
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\obj\Debug\MultithreadLinksApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\obj\Debug\MultithreadLinksApp.Core.csproj.CopyComplete
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\obj\Debug\MultithreadLinksApp.Core.exe
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW8\Vyalikov_Anton\MultithreadLinksApp\MultithreadLinksApp.Core\obj\Debug\MultithreadLinksApp.Core.pdb

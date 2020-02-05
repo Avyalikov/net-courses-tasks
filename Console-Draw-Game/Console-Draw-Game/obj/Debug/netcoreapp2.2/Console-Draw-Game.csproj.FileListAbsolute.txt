@@ -1,0 +1,10 @@
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\bin\Debug\netcoreapp2.2\Console-Draw-Game.deps.json
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\bin\Debug\netcoreapp2.2\Console-Draw-Game.runtimeconfig.json
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\bin\Debug\netcoreapp2.2\Console-Draw-Game.runtimeconfig.dev.json
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\bin\Debug\netcoreapp2.2\Console-Draw-Game.dll
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\bin\Debug\netcoreapp2.2\Console-Draw-Game.pdb
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\obj\Debug\netcoreapp2.2\Console-Draw-Game.csproj.CoreCompileInputs.cache
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\obj\Debug\netcoreapp2.2\Console-Draw-Game.AssemblyInfoInputs.cache
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\obj\Debug\netcoreapp2.2\Console-Draw-Game.AssemblyInfo.cs
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\obj\Debug\netcoreapp2.2\Console-Draw-Game.dll
+C:\Users\Avyal\Desktop\Repos\net-courses-2019\HW3\Vyalikov_Anton\Console-Draw-Game\Console-Draw-Game\obj\Debug\netcoreapp2.2\Console-Draw-Game.pdb
